@@ -6,6 +6,7 @@ Currently, working on simulating a UNIX file system in C. (love low-level stuff)
 
 ## Tech Stack
 **Languages:** C (main lang), Java, Python (data programming), SQL, Scheme
+
 **Other:** LaTeX, Notion, Shell
 
 <!--

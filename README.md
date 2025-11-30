@@ -1,4 +1,12 @@
-## Hi there 👋
+## Heyy
+
+My name's David. I'm an undergrad Computer Science student at University College Dublin.
+
+Currently, working on simulating a UNIX file system in C. (love low-level stuff)
+
+## Tech Stack
+**Languages:** C (main lang), Java, Python (data programming), SQL, Scheme
+**Other:** LaTeX, Notion, Shell
 
 <!--
 **daveneskr/daveneskr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,7 +7,7 @@ Currently, working on simulating a UNIX file system in C. (love low-level stuff)
 ## Tech Stack
 **Languages:** C (main lang), Java, Python (data programming), SQL, Scheme
 
-**Other:** LaTeX, Notion, Shell
+**Other:** LaTeX, Notion, Shell, UNIX systems
 
 <!--
 **daveneskr/daveneskr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
